@@ -1,0 +1,15 @@
+@import "tailwindcss"
+
+
+@theme: {
+    extend: {
+      fontFamily: {
+        inter: ['Inter', 'sans-serif'],
+      }
+    }
+}
+@utility{
+  bg- "url('./assets/hero-bg.png')"
+  bg- "url('./assets/microphone.png')"
+  bg- "url('./assets/microphone.png')"
+}
